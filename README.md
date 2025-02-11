@@ -7,7 +7,8 @@ The provided STL file(s) is(are) placed here since it is easy to update with new
 articles, etc related to the subject. These can be printed on any 3D printer. 
 
 -------------------------------------------------
-###  YouTube Video
+###  YouTube Video 
+(click the imagine to watch)
 
 [![UnussunU](https://github.com/canessae/Sci_and_Self/blob/main/img_0.png)](https://www.youtube.com/shorts/j3xLy23uWbk "UnussunU")
 
@@ -15,7 +16,7 @@ articles, etc related to the subject. These can be printed on any 3D printer.
 ### Views
 
 <picture>
-  <img alt="UnussunU" src="https://github.com/canessae/Sci_and_Self/blob/main/img_2.jpg" width="683" height="385">
+  <img alt="UnussunU" src="https://github.com/canessae/Sci_and_Self/blob/main/img_2.jpg" width="400">
 </picture>
 
 
