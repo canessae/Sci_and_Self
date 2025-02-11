@@ -9,13 +9,13 @@ articles, etc related to the subject. These can be printed on any 3D printer.
 -------------------------------------------------
 ###  YouTube Video
 
-[![QuidEst](https://img.youtube.com/shorts/j3xLy23uWbk/0.jpg)](https://www.youtube.com/shorts/j3xLy23uWbk "UnussunU")
+[![UnussunU](https://github.com/canessae/Sci_and_Self/blob/main/img_0.png)](https://www.youtube.com/shorts/j3xLy23uWbk "UnussunU")
 
 -------------------------------------------------
 ### Views
 
 <picture>
-  <img alt="Visual Abstract" src="https://user-images.githubusercontent.com/84878752/230509598-98cba7fb-59fc-4129-b569-0f15221348ec.png" width="683" height="385">
+  <img alt="UnussunU" src="https://user-images.githubusercontent.com/84878752/230509598-98cba7fb-59fc-4129-b569-0f15221348ec.png" width="683" height="385">
 </picture>
 
 
