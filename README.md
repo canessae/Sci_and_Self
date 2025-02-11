@@ -16,8 +16,7 @@ articles, etc related to the subject. These can be printed on any 3D printer.
 ### Views
 
 <picture>
-  <img alt="UnussunU" src="https://github.com/canessae/Sci_and_Self/blob/main/img_2.jpg" width="400">
+  <img alt="UnussunU" src="https://github.com/canessae/Sci_and_Self/blob/main/img_2.jpg" width="278">
 </picture>
 
-
-
+-------------------------------------------------
