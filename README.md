@@ -20,3 +20,18 @@ articles, etc related to the subject. These can be printed on any 3D printer.
 </picture>
 
 -------------------------------------------------
+#### Citation/More Info
+
+More iformation on UnussunU (including a detailed description of it) or if it useful for you, please see
+
+```bibtex
+@misc{
+  title = {NAILS: Normalized Artificial Intelligence Labeling Sensor for Self-Care Health},
+  author = {E. Canessa}, 
+  url = {https://philpapers.org/rec/CANSAT-7},
+}
+```
+-------------------------------------------------
+
+
+
